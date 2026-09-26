@@ -1,8 +1,8 @@
-# StudySphere
+# Notes Copilot
 
 ## Overview
 
-StudySphere is an intelligent document analysis and learning platform that helps you extract insights from your personal document library using AI. Upload your PDFs, markdown files, and text documents, then ask questions in natural language to get accurate, source-backed answers drawn directly from your content.
+Notes Copilot is an intelligent document analysis and learning platform that helps you extract insights from your personal document library using AI. Upload your PDFs, markdown files, and text documents, then ask questions in natural language to get accurate, source-backed answers drawn directly from your content.
 
 The system goes beyond simple keyword search by understanding the semantic meaning of your questions and matching them against your documents using advanced embedding techniques. When your documents contain relevant information, you'll receive answers with clear citations. When they don't, the system transparently supplements with general knowledge from its language model, clearly indicating the source of each part of the answer.
 
@@ -10,7 +10,7 @@ Perfect for researchers, students, professionals, and anyone who needs to quickl
 
 ## Technical Description
 
-StudySphere is a full-stack web application built with modern technologies and deployed as a scalable system.
+Notes Copilot is a full-stack web application built with modern technologies and deployed as a scalable system.
 
 ### Architecture
 
